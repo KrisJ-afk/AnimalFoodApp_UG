@@ -10,7 +10,7 @@ namespace AnimalFood
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new MainContentPage();
         }
 
         protected override void OnStart()
